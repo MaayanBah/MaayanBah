@@ -26,6 +26,7 @@ For the past 2 years, I've been immersed in bioinformatics research as a Python3
     <th>C++</th>
     <th>C</th>
     <th>JavaScript</th>
+    <th>Bash</th>
   </tr>
   <tr>
     <td align="center">
@@ -46,6 +47,11 @@ For the past 2 years, I've been immersed in bioinformatics research as a Python3
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> 
       </a>
     </td>
   </tr>

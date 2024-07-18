@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Maayan</h1>
-
 <h3 align="left"> 👩🏽‍💻 About Me:</h3>
 I'm a final-year student at Bar Ilan University, pursuing a B.A. in Bioinformatics (Computer Science & Biology).<br>
 For the past 2 years, I've been immersed in bioinformatics research as a Python3 bioinformatics developer at The Open University of Israel.

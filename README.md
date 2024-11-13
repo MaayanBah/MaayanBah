@@ -1,5 +1,5 @@
 <h3 align="left"> 👩🏽‍💻 About Me:</h3>
-I'm a passionate software engineer, recently graduated a B.A degree in BioInformatics (Computer Science & Biology) at Bar Ilan University.<br>
+I'm a passionate software engineer, recently graduated a B.S degree in BioInformatics (Computer Science & Biology) at Bar Ilan University.<br>
 For the past 2+ years, I've been immersed in bioinformatics research as a Python3 bioinformatics software engineer at The Open University of Israel.
 I've recently found interest in the world of modern web development, studying various important tools/technologies on the backend and frontend.
 <br><br>
